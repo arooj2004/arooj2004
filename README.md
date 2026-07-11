@@ -1,108 +1,131 @@
-# Hi, I'm Arooj Fatima 👋
+<div align="center">
 
-🎓 Computer Science Graduate
-📊 Junior Data Analyst
-📍 Pakistan
+# Hi 👋, I'm Arooj Fatima
 
-I enjoy transforming messy datasets into meaningful insights through SQL, Python,
-Excel, and Power BI. My projects focus on customer analytics, predictive modeling, and interactive dashboards that support data-driven decision-making.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Business+Insights;Aspiring+Data+Scientist" />
 
-## 👩‍💻 About Me
+### 📊 Junior Data Analyst | Data Enthusiast | Lifelong Learner
 
-🎓 BS Computer Science Graduate
+I enjoy transforming raw data into meaningful insights through **Python, SQL, Power BI, Excel, and Machine Learning**. My projects focus on solving real-world business problems with data-driven solutions.
 
-📊 Aspiring Data Analyst passionate about solving business problems using data.
+<p>
+<a href="https://www.linkedin.com/in/aroojfatiima">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💡 Skilled in Python, SQL, Power BI, Excel, Machine Learning, and Data Visualization.
+<a href="https://www.kaggle.com/aroojfatima04">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
-📈 Interested in Customer Analytics, Business Intelligence, Predictive Analytics, and Data Science.
+<a href="mailto:aroojfatima1504@gmail.com>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🌱 Currently improving my SQL, Power BI, and Machine Learning skills while building real-world portfolio projects.
+</p>
 
-## 🛠 Tech Stack
+</div>
 
-### Languages
+---
+
+# 👩‍💻 About Me
+
+- 🎓 BS Computer Science Graduate
+- 📊 Passionate about Data Analytics and Business Intelligence
+- 📈 Interested in Customer Analytics, Predictive Analytics, and Data Visualization
+- 💡 I enjoy converting messy datasets into actionable business insights
+- 🌱 Currently learning Advanced SQL, Power BI, Machine Learning, and Data Storytelling
+- 🎯 Looking for Junior Data Analyst opportunities
+
+---
+
+# 🛠 Tech Stack
+
+## Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Analysis
+## Data Analysis
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
-### Visualization
+## Visualization
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
 
-### Tools
+## Tools
 
-Git
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
-GitHub
+---
 
-Jupyter Notebook
+# 📊 GitHub Stats
 
-MySQL
+<div align="center">
 
-SQL Server
+![](https://github-readme-stats.vercel.app/api?username=arooj2004&show_icons=true&theme=github_dark&hide_border=true)
 
-PowerBI
+![](https://github-readme-streak-stats.herokuapp.com/?user=arooj2004&theme=github-dark&hide_border=true)
 
-VS Code
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arooj2004&layout=compact&theme=github_dark&hide_border=true)
 
-## 📊 GitHub Stats
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=arooj2004&show_icons=true&theme=github_dark)
+---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=arooj2004&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arooj2004&layout=compact&theme=github_dark)
-
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 📊 Customer Churn Analysis
 
-Analyzed customer churn patterns using SQL, Python, Power BI, and Machine Learning to identify high-risk customers and provide actionable retention strategies.
+Predicting customer churn using SQL, Python, Power BI, and Machine Learning to identify high-risk customers and recommend retention strategies.
 
 ---
 
 ### 🛒 E-commerce Sales Analysis
 
-Performed exploratory data analysis on e-commerce sales to uncover sales trends, customer behavior, and business performance insights.
+Analyzed e-commerce sales data to identify revenue trends, customer behavior, and business opportunities.
 
 ---
 
 ### 📚 Genre-Based Book Recommendation System
 
-Built a recommendation engine using TF-IDF, cosine similarity, and machine learning techniques to recommend books based on genres and user preferences.
+Built a recommendation engine using TF-IDF and cosine similarity to recommend books based on genres and user preferences.
 
 ---
 
 ### 📈 Retail Sales Dashboard
 
-Designed an interactive Power BI dashboard to monitor KPIs, sales performance, and business growth.
+Developed an interactive Power BI dashboard to monitor KPIs and visualize sales performance.
 
-## 🌱 Currently Learning
+---
+
+# 🌱 Currently Learning
 
 - Advanced SQL
 - Power BI
 - Machine Learning
-- Data Visualization
 - Data Storytelling
+- Statistics for Data Science
 
-## 📫 Connect With Me
+---
 
-LinkedIn:
-www.linkedin.com/in/aroojfatiima
+# 📫 Let's Connect
 
-Kaggle:
-https://www.kaggle.com/aroojfatima04
+- 💼 LinkedIn: https://www.linkedin.com/in/aroojfatiima
+- 📊 Kaggle: https://www.kaggle.com/aroojfatima04
 
-Email:
-aroojfatima1504@gmail.com
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+</div>
