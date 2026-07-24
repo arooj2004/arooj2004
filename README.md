@@ -22,7 +22,6 @@ I enjoy transforming raw data into meaningful insights through **Python, SQL, Po
 </a>
 
 </p>
-
 </div>
 
 ---
