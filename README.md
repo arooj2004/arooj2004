@@ -111,6 +111,7 @@ Developed an interactive Power BI dashboard to monitor KPIs and visualize sales 
 - Machine Learning
 - Data Storytelling
 - Statistics for Data Science
+- Business Analytics
 
 ---
 
